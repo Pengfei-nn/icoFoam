@@ -600,4 +600,4 @@ mesh.setFluxRequired(p.name());
 
 ### 算例目录结构
 
-![case](.\case.png)
+![case](case.png)
