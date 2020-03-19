@@ -7,7 +7,7 @@
     6. 主要函数和变量解析<br>
     7. 附录</details>
 
-
+<font color=#00008B>背景介绍</font>
 ## <font color=#00008B>背景介绍</font>
 
 ### 问题背景
