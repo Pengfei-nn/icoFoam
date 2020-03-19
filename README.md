@@ -197,7 +197,7 @@ $$
 
 ## <font color=#00008B>icoFoam 算法伪代码</font>
 
-![case](.\algorithm.jpg)
+![algorithm](algorithm.jpg)
 
 
 
